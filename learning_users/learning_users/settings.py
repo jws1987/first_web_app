@@ -28,7 +28,9 @@ SECRET_KEY = 'uxpl=)ix6pseao2hmm_+32g4d%)m^m&0q92=676we9)63insoi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'stockee.pythonanywhere.com'
+]
 
 
 # Application definition
